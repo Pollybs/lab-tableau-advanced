@@ -2,6 +2,8 @@
 
 # Lab | Advanced Tableau Visualization
 
+Link: https://public.tableau.com/app/profile/regina.pollyana.bernardes/viz/tableau-lab2/Story1?publish=yes
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
